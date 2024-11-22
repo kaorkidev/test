@@ -1,0 +1,8 @@
+{
+  "name": "<repository name>",
+  "description": "<repository description>",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kaorkidev/test/builds/plugins.json"
+  ]
+}
